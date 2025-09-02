@@ -25,12 +25,12 @@ website:
         text: Home
 
 
-  announcement: 
-    icon: info-circle
-    dismissable: true
-    content: "**Next speakers** - The speaker on the 20th of June will be **Felipe Ignacio Álvarez barrientos** & **Haotian Xiao** from **LMS** !"
-    type: light
-    position: below-navbar
+  # announcement: 
+  #   icon: info-circle
+  #   dismissable: true
+  #   content: "**Next speakers** - The speaker on the 20th of June will be **Felipe Ignacio Álvarez barrientos** & **Haotian Xiao** from **LMS** !"
+  #   type: light
+  #   position: below-navbar
 
 format:
   html:
