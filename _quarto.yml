@@ -1,0 +1,44 @@
+################################################################################
+###                                                                          ###
+### Created by Alexandre Daby-Seesaram                                       ###
+###                                                                          ###
+### École Polytechnique, Palaiseau, France                                   ###
+###                                                                          ###
+################################################################################
+
+project:
+  resources:
+    - "Resources/Documents"
+    - "style_LMS.scss"
+    - "style_LMS_dark.scss"
+  type: website
+  output-dir: public
+website:
+  title: "Pôle Mécanique's website"
+  site-url: https://polemecanique.github.io/
+  description: "Pôle Mécanique's website"
+  navbar:
+    # logo: "Resources/Images/Logotype-X_ENSTA-Ecoles-Horizontal-Blanc.png"
+    logo: "Resources/Images/Logotype_IPP_X_ENSTA.svg"
+    right:
+      - href: index.qmd
+        text: Home
+
+
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "**Next speakers** - The speaker on the 20th of June will be **Felipe Ignacio Álvarez barrientos** & **Haotian Xiao** from **LMS** !"
+    type: light
+    position: below-navbar
+
+format:
+  html:
+    theme:
+      light: [flatly,style_LMS.scss]
+      dark: [darkly,style_LMS_dark.scss]
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,25 @@
+---
+# title: Junior researchers - WIKI
+toc: false
+about:
+  template: marquee
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/polemecanique/internal_seminars
+format:
+  html:
+    page-layout: full
+---
+
+## {{< iconify fa6-solid:book-atlas >}} &nbsp; Welcome to the Pôle Méca webpage!
+
+This wiki serves as a central hub for the Pôle Méca seminars. 
+
+Here, you will find redirection links to :
+
+* [Internal Pôle Mécanique seminars](https://polemecanique.github.io/internal_seminars/).
+
+
+![](Resources/Images/PoleMeca.png)
+
