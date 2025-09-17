@@ -23,5 +23,5 @@ Here, you will find redirection links to :
 * [Computational Mechanics @ IPP](https://src.koda.cnrs.fr/martin.genet/computational-mechanics-at-ipp/-/blob/main/README.md#upcoming-presentations),
 * [Biomechanics @ IPP](https://groupes.renater.fr/sympa/info/biomechanics-at-ipp). 
 
-![](Resources/Images/PoleMeca.png)
+![](Resources/Images/PoleMeca.jpg)
 
