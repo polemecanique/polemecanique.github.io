@@ -21,7 +21,7 @@ Here, you will find redirection links to :
 * [Solid Mechanics Lab seminars](https://polemecanique.github.io/lms-meca-seminars/),
 * [Internal Pôle Mécanique seminars](https://polemecanique.github.io/internal_seminars/),
 * [Computational Mechanics @ IPP](https://src.koda.cnrs.fr/martin.genet/computational-mechanics-at-ipp/-/blob/main/README.md#upcoming-presentations),
-* [Biomechanics @ IPP](https://groupes.renater.fr/sympa/info/biomechanics-at-ipp). 
+* [Biomechanics @ IPP](https://polemecanique.github.io/biomechanics_seminar/). 
 
 ![](Resources/Images/PoleMeca.jpg)
 
