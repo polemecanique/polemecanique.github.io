@@ -19,7 +19,7 @@ This wiki serves as a central hub for the Pôle Méca seminars.
 Here, you will find redirection links to :
 
 * [Solid Mechanics Lab seminars](https://polemecanique.github.io/lms-meca-seminars/),
-* [ENSTA, Paris campus, seminars](https://polemecanique.github.io/UME-meca-seminars/), 
+* [ENSTA Paris campus seminars](https://polemecanique.github.io/UME-meca-seminars/), 
 * [Internal Pôle Mécanique seminars](https://polemecanique.github.io/internal_seminars/),
 * [Computational Mechanics @ IPP](https://src.koda.cnrs.fr/martin.genet/computational-mechanics-at-ipp/-/blob/main/README.md#upcoming-presentations),
 * [Biomechanics @ IPP](https://polemecanique.github.io/biomechanics_seminar/). 
